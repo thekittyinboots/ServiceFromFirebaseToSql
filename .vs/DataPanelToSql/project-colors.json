@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3fde920-e696-41be-bc5e-05544bb221ab": {
+      "ProjectGuid": "a3fde920-e696-41be-bc5e-05544bb221ab",
+      "DisplayName": "DataPanelToSql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
