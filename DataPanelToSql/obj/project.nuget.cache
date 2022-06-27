@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VfUc7TAeaM31H5E3Gfo9yNB3ETMPsYwIMnsGicZL5Y9MbVUDpPrc4dkBRt9hlCNyFHpIYreRV469SIbwfBPc7w==",
+  "dgSpecHash": "utVXqeHsvyofZcEzUwGkuE9xjRc8Qtoug1DBdqMB7jGXYgFWZRKM8llL9b+80I2IOYE74cKXrXImxw4J71QyvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\theki\\Documents\\desarrollo\\DataPanelToSql - copia\\DataPanelToSql\\DataPanelToSql\\DataPanelToSql.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,7 @@
     "C:\\Users\\theki\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\microsoft.extensions.hosting\\6.0.1\\microsoft.extensions.hosting.6.0.1.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\theki\\.nuget\\packages\\microsoft.extensions.hosting.windowsservices\\6.0.0\\microsoft.extensions.hosting.windowsservices.6.0.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\microsoft.extensions.logging.configuration.6.0.0.nupkg.sha512",
@@ -75,6 +76,7 @@
     "C:\\Users\\theki\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\theki\\.nuget\\packages\\system.serviceprocess.servicecontroller\\6.0.0\\system.serviceprocess.servicecontroller.6.0.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\theki\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",

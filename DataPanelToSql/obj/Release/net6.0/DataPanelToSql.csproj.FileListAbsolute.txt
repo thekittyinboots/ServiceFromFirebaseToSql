@@ -84,3 +84,6 @@ C:\Users\theki\Documents\desarrollo\DataPanelToSql\DataPanelToSql\DataPanelToSql
 C:\Users\theki\Documents\desarrollo\DataPanelToSql\DataPanelToSql\DataPanelToSql\obj\Release\net6.0\DataPanelToSql.pdb
 C:\Users\theki\Documents\desarrollo\DataPanelToSql\DataPanelToSql\DataPanelToSql\obj\Release\net6.0\DataPanelToSql.genruntimeconfig.cache
 C:\Users\theki\Documents\desarrollo\DataPanelToSql\DataPanelToSql\DataPanelToSql\obj\Release\net6.0\DataPanelToSql.csproj.AssemblyReference.cache
+C:\Users\theki\Documents\desarrollo\DataPanelToSql\DataPanelToSql\DataPanelToSql\bin\Release\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\theki\Documents\desarrollo\DataPanelToSql\DataPanelToSql\DataPanelToSql\bin\Release\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\theki\Documents\desarrollo\DataPanelToSql\DataPanelToSql\DataPanelToSql\bin\Release\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
